@@ -6,4 +6,4 @@
 - Node.js, Fastify, Nest
 - docker, jenkins
 - Elasticsearch
-- Ideation, Communication
+- Ideation, Communication, Documentation
