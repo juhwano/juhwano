@@ -3,7 +3,7 @@
 - 유연하면서 가독성이 좋고, 유지보수가 가능한 코드를 작성하기 위해 노력하고 있습니다.<br/>
 
 ### Interest
-- Node.js, Fastify, Nest
+- Node.js, Fastify, Java, Spring, SpringBoot
 - docker, jenkins
-- Elasticsearch
+- ElasticSearch
 - Ideation, Documentation, Communication
