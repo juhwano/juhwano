@@ -1,9 +1,11 @@
 ### 안녕하세요! 🫡<br/>
-- 고객에게 안정적으로 데이터를 제공하기 위해 고민하는 개발자, 오주환입니다.<br/>
-- 유연하면서 가독성이 좋고, 유지보수가 가능한 코드를 작성하기 위해 노력하고 있습니다.<br/>
+- RESTFul API와 SQL문 CALL 최소화를 목표로 비용 최적화를 이루는 백엔드 엔지니어, 오주환입니다.<br/>
+- 알고리즘적 사고와 유연한 프로그래밍 능력으로 문제를 해결하기 위해 노력하고 있습니다.<br/>
 
 ### Interest
-- Node.js, Fastify, Java, Spring, SpringBoot
-- docker, jenkins
-- ElasticSearch
+- Node.js, Java
+- Spring, SpringBoot, Express, Fastify
+- Oracle, MySQL, MongoDB
+- AWS(EC2, ECS, S3, cloudFront, CloudWatch)
+- Docker, Jenkins, GitHub Actions
 - Ideation, Documentation, Communication
