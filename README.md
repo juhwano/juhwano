@@ -3,14 +3,8 @@
 - 알고리즘적 사고와 유연한 프로그래밍 능력으로 문제를 해결하기 위해 노력하고 있습니다.<br/>
 ---
 ### 기술 스택.
-Backend
-- Java, Node.js
-- SpringBoot, Spring MVC, Express, Fastify
-- Jest
-- Gradle
-FrontEnd
-- Oracle, MySQL, MongoDB
-- AWS(EC2, ECS, S3, RDS, cloudFront, CloudWatch)
-DevOps
-- MariaDB, MongoDB, Redis
-- Docker, Jenkins, GitHub Actions
+| Category | Technologies                                             |
+|----------|----------------------------------------------------------|
+| Backend  | Java, Node.js, SpringBoot, Spring MVC, Express, Fastify  |
+| FrontEnd | ES6, React                                               |
+| DevOps   | MariaDB, MongoDB, Redis, AWS(EC2, ECS, S3, RDS, cloudFront, CloudWatch), Docker, Jenkins, GitHub Actions |
