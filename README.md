@@ -9,3 +9,7 @@
 | FrontEnd | ES6, React                                               |
 | DevOps   | MariaDB, MongoDB, Redis, AWS(EC2, ECS, S3), Jenkins |
 | Tools    | Slack, Jira, Confluence, Bitbucket, New Relic, chatGPT, Copilot
+
+---
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=calculus9006)](https://solved.ac/calculus9006/)
