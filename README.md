@@ -12,8 +12,6 @@ I have three years of experience as a backend engineer with expertise in Node.js
 | Infra   | ![AmazonEC2](https://img.shields.io/badge/AmazonEC2-FF9900?style=for-the-badge&logo=AmazonEC2&logoColor=ffffff), ![AmazonECS](https://img.shields.io/badge/AmazonECS-FF9900?style=for-the-badge&logo=AmazonECS&logoColor=ffffff), ![AmazonS3](https://img.shields.io/badge/AmazonS3-569A31?style=for-the-badge&logo=AmazonS3&logoColor=ffffff), ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=ffffff), ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
 
 ----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juhwano&layout=donut&hide=jupyter%20notebook,css,html,scss,dockerfile)](https://github.com/anuraghazra/github-readme-stats)
+### Problem-solving.
 
-----
-### problem-solving.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=calculus9006)](https://solved.ac/calculus9006/)
