@@ -14,4 +14,7 @@ I have three years of experience as a backend engineer with expertise in Node.js
 ----
 ### Problem-solving.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=calculus9006)](https://solved.ac/calculus9006/)
+<div>
+  <img height=200 width=400 align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=calculus9006"/>
+  <img height=200 align="center" src="https://leetcard.jacoblin.cool/calculus9006?site=us" />
+</div>
