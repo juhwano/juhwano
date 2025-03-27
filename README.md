@@ -1,7 +1,7 @@
 ----
 ### Summary.
 
-I have three years of experience as a backend engineer with expertise in Node.js, Java, and SQL. I am passionate about optimizing backend applications and developing scalable, flexible systems. I have successfully led projects to enhance performance and streamline batch processing.
+I am a backend engineer with 2 years of experience, working with Node.js, MongoDB, and AWS. I mainly optimize applications and develop scalable and flexible systems. I also stay motivated for technical growth by constantly working on side projects. I am driven by three values: professionalism as a developer, efficient communication, and constant motivation for growth. By doing so, I will contribute to the success of the business.
 
 ----
 ### Skills.
