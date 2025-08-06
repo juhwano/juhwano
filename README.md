@@ -1,7 +1,7 @@
 ----
 ### Summary.
 
-I am a backend engineer with 2 years of experience, working with Node.js, MongoDB, and AWS. I mainly optimize applications and develop scalable and flexible systems. I also stay motivated for technical growth by constantly working on side projects. I am driven by three values: professionalism as a developer, efficient communication, and constant motivation for growth. By doing so, I will contribute to the success of the business.
+I am a backend engineer with 3 years of experience, working with Node.js, MongoDB, and AWS. I mainly optimize applications and develop scalable and flexible systems. I also stay motivated for technical growth by constantly working on side projects. I am driven by three values: professionalism as a developer, efficient communication, and constant motivation for growth. By doing so, I will contribute to the success of the business.
 
 ----
 ### Skills.
