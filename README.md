@@ -23,20 +23,20 @@
 
 ## Work Experience.
 
-**Surromind**
-Seoul, South Korea | Jul 2025 – Nov 2025  
+**Surromind**  
+_Seoul, South Korea | Jul 2025 – Nov 2025_
 - Developed backend using FastAPI and implemented Agentic AI features with OpenAI SDK  
 - Built AWS Cloud Native infrastructure including ECS, ECR, RDS and ElastiCache
 - Conducted performance benchmarking for vLLM inference server on-premises  
 
 **Xingxing**  
-Seoul, South Korea | Aug 2022 – Aug 2024
+_Seoul, South Korea | Aug 2022 – Aug 2024_
 - Developed backend using Node.js and Fastify
 - Optimized MongoDB performance
 - Managed AWS ECS and EC2 infrastructure
 
-**Sellerline**  
-Seoul, South Korea | Apr 2022 – Jul 2022
+**Sellerline**   
+_Seoul, South Korea | Apr 2022 – Jul 2022_
 - Developed backend using Spring Boot
 - Implemented financial data integrity checks
 - Managed AWS EC2 infrastructure
