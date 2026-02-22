@@ -13,6 +13,7 @@
 
 ### [eslint/markdown](https://github.com/eslint/markdown)
 - `feat`: [Expose identifiers in messages for no-duplicate-definitions](https://github.com/eslint/markdown/pull/506) (2025-08-19)
+- `docs`: [Add blank lines after ESLint directive comments](https://github.com/eslint/markdown/pull/615) (2026-01-26)
 
 ### [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev)
 - `docs`: [Add Korean translation for 'Mobile (React Native)' section](https://github.com/reactjs/ko.react.dev/pull/1253) (2025-08-08)
