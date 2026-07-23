@@ -44,6 +44,10 @@ Apr 2022 – Jul 2022_ (3 mos)
 <br/>
 <br/>
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{juhwano}?pet-id=1" width="1000" height="120"/>
+<a href="https://www.gitanimals.org/en-US?utm_medium=image&utm_source=juhwano&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/juhwano"
+  width="600"
+  height="300"
+/>
 </a>
