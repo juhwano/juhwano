@@ -39,3 +39,11 @@ Aug 2022 – Aug 2024_ (2 yrs)
 -**Sellerline** <br/>
 _Backend Developer | Seoul, South Korea <br/>
 Apr 2022 – Jul 2022_ (3 mos)
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{juhwano}?pet-id=1" width="1000" height="120"/>
+</a>
